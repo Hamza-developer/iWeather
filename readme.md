@@ -1,5 +1,5 @@
-Goto Project Folder and run 
+Goto Project Folder 
 
-Ionic server to run project
+Run command "ionic server" on CMD
 
 Enjoy..
